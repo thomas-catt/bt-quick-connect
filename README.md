@@ -2,6 +2,8 @@
 
 A minimal Windows system tray application that connects to a paired Bluetooth device with a single click.
 
+> this project was vibecoded and untested so everything other than this line on this entire repo is just AI.
+
 ## Usage
 
 ```
